@@ -9,8 +9,6 @@
             alex.toString();
             linda.toString();
 
-            Console.WriteLine("---END---");
-
         }
 
     }
