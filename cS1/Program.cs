@@ -24,8 +24,10 @@
                 new (6, "Giường ngủ", 500, new string[] {"Trắng"},               2),
                 new (7, "Tủ áo",      600, new string[] {"Trắng"},               3),
             };
-
+            //test git push 
             products.ForEach(p => Console.WriteLine(p));
+
+           
 
 
         }
