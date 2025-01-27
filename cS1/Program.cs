@@ -7,9 +7,9 @@
         {
             var brands = new List<Brand>()
             {
-                new Brand{ID = 1, Name = "Công ty AAA"},
-                new Brand{ID = 2, Name = "Công ty BBB"},
-                new Brand{ID = 4, Name = "Công ty CCC"},
+                new (){ID = 1, Name = "Công ty AAA"},
+                new (){ID = 2, Name = "Công ty BBB"},
+                new (){ID = 4, Name = "Công ty CCC"},
             };
 
             var products = new List<Product>()
