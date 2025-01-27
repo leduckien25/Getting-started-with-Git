@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Workspace\\c#\\cS1\\cS1.csproj": {}
+    "D:\\Workspace\\c#\\Getting-started-with-Git\\cS1\\cS1.csproj": {}
   },
   "projects": {
-    "D:\\Workspace\\c#\\cS1\\cS1.csproj": {
+    "D:\\Workspace\\c#\\Getting-started-with-Git\\cS1\\cS1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workspace\\c#\\cS1\\cS1.csproj",
+        "projectUniqueName": "D:\\Workspace\\c#\\Getting-started-with-Git\\cS1\\cS1.csproj",
         "projectName": "cS1",
-        "projectPath": "D:\\Workspace\\c#\\cS1\\cS1.csproj",
+        "projectPath": "D:\\Workspace\\c#\\Getting-started-with-Git\\cS1\\cS1.csproj",
         "packagesPath": "C:\\Users\\ducki\\.nuget\\packages\\",
-        "outputPath": "D:\\Workspace\\c#\\cS1\\obj\\",
+        "outputPath": "D:\\Workspace\\c#\\Getting-started-with-Git\\cS1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

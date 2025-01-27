@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Workspace\\c#\\cS1\\",
+  "WorkspaceRootPath": "D:\\Workspace\\c#\\Getting-started-with-Git\\cS1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B01DE2DC-4553-4FFB-AA17-F6FDDCB97860}|cS1.csproj|d:\\workspace\\c#\\cs1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B01DE2DC-4553-4FFB-AA17-F6FDDCB97860}|cS1.csproj|d:\\workspace\\c#\\getting-started-with-git\\cs1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B01DE2DC-4553-4FFB-AA17-F6FDDCB97860}|cS1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B01DE2DC-4553-4FFB-AA17-F6FDDCB97860}|cS1.csproj|d:\\workspace\\c#\\cs1\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B01DE2DC-4553-4FFB-AA17-F6FDDCB97860}|cS1.csproj|d:\\workspace\\c#\\getting-started-with-git\\cs1\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B01DE2DC-4553-4FFB-AA17-F6FDDCB97860}|cS1.csproj|solutionrelative:brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B01DE2DC-4553-4FFB-AA17-F6FDDCB97860}|cS1.csproj|d:\\workspace\\c#\\cs1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B01DE2DC-4553-4FFB-AA17-F6FDDCB97860}|cS1.csproj|d:\\workspace\\c#\\getting-started-with-git\\cs1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B01DE2DC-4553-4FFB-AA17-F6FDDCB97860}|cS1.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,47 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Workspace\\c#\\cS1\\Product.cs",
+              "DocumentMoniker": "D:\\Workspace\\c#\\Getting-started-with-Git\\cS1\\Product.cs",
               "RelativeDocumentMoniker": "Product.cs",
-              "ToolTip": "D:\\Workspace\\c#\\cS1\\Product.cs",
+              "ToolTip": "D:\\Workspace\\c#\\Getting-started-with-Git\\cS1\\Product.cs",
               "RelativeToolTip": "Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T05:30:20.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T05:30:20.924Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Brand.cs",
-              "DocumentMoniker": "D:\\Workspace\\c#\\cS1\\Brand.cs",
+              "DocumentMoniker": "D:\\Workspace\\c#\\Getting-started-with-Git\\cS1\\Brand.cs",
               "RelativeDocumentMoniker": "Brand.cs",
-              "ToolTip": "D:\\Workspace\\c#\\cS1\\Brand.cs",
+              "ToolTip": "D:\\Workspace\\c#\\Getting-started-with-Git\\cS1\\Brand.cs",
               "RelativeToolTip": "Brand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T05:29:20.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T05:29:20.419Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Workspace\\c#\\cS1\\Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\c#\\Getting-started-with-Git\\cS1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Workspace\\c#\\cS1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "ToolTip": "D:\\Workspace\\c#\\Getting-started-with-Git\\cS1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T01:04:33.282Z",
               "EditorCaption": ""

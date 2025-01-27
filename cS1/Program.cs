@@ -5,6 +5,8 @@
 
         static void Main()
         {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
+
             var brands = new List<Brand>()
             {
                 new (){ID = 1, Name = "Công ty AAA"},
@@ -23,7 +25,8 @@
                 new (7, "Tủ áo",      600, new string[] {"Trắng"},               3),
             };
 
-            Console.WriteLine("hello world hahaha");
+            products.ForEach(p => Console.WriteLine(p));
+
 
         }
     }
