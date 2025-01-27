@@ -1,40 +1,28 @@
-﻿using System;
-
-namespace cS1
+﻿namespace cS1
 {
     internal class Program
     {
-        public static int SumOfArray(int[] a)
-        {
-            int sum = 0;
-            foreach (var x in a)
-            {
-                sum += x;
-            }
-            return sum;
-
-        }
-
-
 
         static void Main()
         {
-            int n = int.Parse(Console.ReadLine());
-            string[] a = new string[n];
-
-            for (int i = 0; i < n; i++)
+            var brands = new List<Brand>() 
             {
-                a[i] = Console.ReadLine();
-                if (a[i].Length > 3)
-                {
-                    Console.Write(a[i] + " ");
-                }
-            }
+                new Brand{ID = 1, Name = "Công ty AAA"},
+                new Brand{ID = 2, Name = "Công ty BBB"},
+                new Brand{ID = 4, Name = "Công ty CCC"},
+            };
 
+            var products = new List<Product>()
+            {
+                new Product(1, "Bàn trà",    400, new string[] {"Xám", "Xanh"},         2),
+                new Product(2, "Tranh treo", 400, new string[] {"Vàng", "Xanh"},        1),
+                new Product(3, "Đèn trùm",   500, new string[] {"Trắng"},               3),
+                new Product(4, "Bàn học",    200, new string[] {"Trắng", "Xanh"},       1),
+                new Product(5, "Túi da",     300, new string[] {"Đỏ", "Đen", "Vàng"},   2),
+                new Product(6, "Giường ngủ", 500, new string[] {"Trắng"},               2),
+                new Product(7, "Tủ áo",      600, new string[] {"Trắng"},               3),
+            };
 
         }
-
-
-
     }
 }
