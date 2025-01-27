@@ -23,7 +23,7 @@
                 new (7, "Tủ áo",      600, new string[] {"Trắng"},               3),
             };
 
-            Console.WriteLine("hello world");
+            Console.WriteLine("hello world hahaha");
 
         }
     }
